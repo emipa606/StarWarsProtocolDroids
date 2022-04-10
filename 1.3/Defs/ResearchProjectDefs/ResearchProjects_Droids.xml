@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>3PO_Series</defName>
+    <label>3PO-Series</label>
+    <description>Create 3PO-Series Protocol Droids.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>WSDroidTab</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>2.25</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>TC_Series</defName>
+    <label>TC-Series</label>
+    <description>Create TC-Series Protocol Droids.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tab>WSDroidTab</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+</Defs>
